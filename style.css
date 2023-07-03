@@ -1,0 +1,80 @@
+html {
+    box-sizing: border-box;
+    background-color: cadetblue;
+}
+
+.content {
+    background-color: white;
+    border-radius: 10px;
+    width: 400px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.title {
+    font-size: 25px;
+    color: cadetblue;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin: 0 20px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.user-input {
+    width: 80%;
+    padding: 10px 15px;
+    margin: 0 20px;
+    border: 1px solid cadetblue;
+    border-radius: 5px;
+}
+
+.checkbox-group {
+    margin: 0 20px;
+    margin-top: 15px;
+}
+
+.checkbox-group span {
+    color: cadetblue;
+}
+
+.register-btn {
+    width: 89%;
+    margin: 0px 20px;
+    border: none;
+    background-color: cadetblue;
+    color: white;
+    padding: 10px 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.footer-text {
+    text-align: center;
+    padding: 20px 20px;
+}
+
+.footer-text span {
+    color: cadetblue;
+}
+
+.result {
+    border: none;
+    width: 89%;
+    margin: 0px 10px;
+    text-align: end;
+    padding: 20px 10px;
+    font-size: 20px;
+    background-color: cadetblue;
+    color: white;
+}
+
+.error {
+    color: red;
+    margin: 3px 20px;
+}
